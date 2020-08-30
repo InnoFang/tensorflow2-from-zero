@@ -17,6 +17,10 @@ TensorFlow 2.0 学习笔记
  + 10. 对卷积神经网络进行介绍 -> [CNN.ipynb](10.%20CNN.ipynb)
  + 11. 用 CNN 训练 CIFAR-10 数据集 -> [CIFAR-10.ipynb](11.%CIFAR-10.ipynb)
  + 12. 实现 LeNet -> [LeNet.ipynb](12.%20LeNet.ipynb)
+ + 13. 实现 AlexNet -> [AlexNet.ipynb](13.%20AlexNet.ipynb)
+ + 14. 实现 VGGNet -> [VGGNet.ipynb](14.%20VGGNet.ipynb)
+ + 15. 实现 InceptionNet -> [InceptionNet.ipynb](15.%20InceptionNet.ipynb)
+ + 16. 实现 ResNet -> [ResNet.ipynb](16.%20ResNet.ipynb)
 
 
 ## REFERENCE
