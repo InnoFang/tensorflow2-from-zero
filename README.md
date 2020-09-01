@@ -15,7 +15,7 @@ TensorFlow 2.0 学习笔记
  + 08. 使用 tf.keras 来训练 MNIST 数据集 -> [MNIST.ipynb](08.%20MNIST.ipynb)
  + 09. 对“六步法”搭建神经网络进行扩展 -> [Keras Advanced.ipynb](09.%20Keras%20Advanced.ipynb)
  + 10. 对卷积神经网络进行介绍 -> [CNN.ipynb](10.%20CNN.ipynb)
- + 11. 用 CNN 训练 CIFAR-10 数据集 -> [CIFAR-10.ipynb](11.%CIFAR-10.ipynb)
+ + 11. 用 CNN 训练 Fashion MNIST 数据集 -> [CIFAR-10.ipynb](11.%20Fashion%20MNIST.ipynb)
  + 12. 实现 LeNet -> [LeNet.ipynb](12.%20LeNet.ipynb)
  + 13. 实现 AlexNet -> [AlexNet.ipynb](13.%20AlexNet.ipynb)
  + 14. 实现 VGGNet -> [VGGNet.ipynb](14.%20VGGNet.ipynb)
