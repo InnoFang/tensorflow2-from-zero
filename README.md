@@ -25,5 +25,6 @@ TensorFlow 2.0 学习笔记
 
 ## REFERENCE
 
- + 人工智能实践：Tensorflow笔记
  + 深度学习入门：基于 Python 的理论与实现
+ + 人工智能实践：Tensorflow笔记
+ + Dive into deep learning
