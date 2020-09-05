@@ -3,6 +3,7 @@
 TensorFlow 2.0 学习笔记
 
 > 温馨提示：如果 clone 速度过慢，可以使用以下命令
+> 
 > `git clone --depth 1 https://github.com.cnpmjs.org/InnoFang/tensorflow2-from-zero.git`
 
  + 01. 数据类型、张量、函数 -> [Overview.ipynb](01.%20Overview.ipynb)
