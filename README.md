@@ -22,10 +22,3 @@ TensorFlow 2.0 学习笔记
  + 14. 使用 VGGNet 训练 Fashion MNIST 数据集 -> [VGGNet.ipynb](14.%20VGGNet.ipynb)
  + 15. 使用 InceptionNet 训练 Fashion MNIST 数据集 -> [InceptionNet.ipynb](15.%20InceptionNet.ipynb)
  + 16. 使用 ResNet 训练 Fashion MNIST 数据集 -> [ResNet.ipynb](16.%20ResNet.ipynb)
-
-
-## REFERENCE
-
- + 深度学习入门：基于 Python 的理论与实现
- + 人工智能实践：Tensorflow笔记
- + Dive into deep learning
